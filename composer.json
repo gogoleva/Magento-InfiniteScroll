@@ -1,5 +1,5 @@
 {
-  "name": "strategery/infinitescroll",
+  "name": "gogoleva/infinitescroll",
   "license": "AFL-3.0",
   "type": "magento-module",
   "description": "Magento InfiniteScroll: AJAX feature for catalog to load the next set of products.",
